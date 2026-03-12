@@ -3,6 +3,4 @@ google-generativeai
 python-dotenv
 requests
 aiohttp
-pillow
 apscheduler
-imghdr
